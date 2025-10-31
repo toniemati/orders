@@ -1,3 +1,10 @@
+## Setup
+
+1. `git clone https://github.com/toniemati/orders.git`
+2. `npm install`
+3. `npm run start` for run
+4. `npm run test` for tests
+
 ## Tabele
 
 ### Order

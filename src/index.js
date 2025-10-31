@@ -33,7 +33,7 @@ for (let i = 0; i < numOfOrders; i++) {
 orders.forEach((o, i) => {
     orders[i] = calculateOrder(o, TAX_PERCENT)
 
-    // console.log(`Order ${i + 1}`, orders[i])
+    console.log(`Order ${i + 1}`, orders[i])
 })
 
 
